@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://swinnoproject.github.io/experimental-dashboard/index.html</loc>
-    <lastmod>2024-10-02T07:53:19.872Z</lastmod>
+    <loc>https://swinnoproject.github.io/experimental-dashboard/weather.html</loc>
+    <lastmod>2024-10-06T14:59:50.890Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swinnoproject.github.io/experimental-dashboard/flights.html</loc>
+    <lastmod>2024-10-06T14:59:50.889Z</lastmod>
   </url>
   <url>
     <loc>https://swinnoproject.github.io/experimental-dashboard/about.html</loc>
-    <lastmod>2024-09-30T15:18:30.707Z</lastmod>
+    <lastmod>2024-09-30T19:28:45.980Z</lastmod>
+  </url>
+  <url>
+    <loc>https://swinnoproject.github.io/experimental-dashboard/index.html</loc>
+    <lastmod>2024-10-06T20:48:01.872Z</lastmod>
   </url>
 </urlset>
